@@ -9,7 +9,7 @@
 
 ## Descripción 📑
 
-Es una versión del conocido juego WORDLE
+El juego 'piedra, papel y tijera' de toda la vida y un modo avanzado
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
