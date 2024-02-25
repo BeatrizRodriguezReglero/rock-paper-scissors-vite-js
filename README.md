@@ -47,4 +47,4 @@ Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
 ## Licencia 📄
 
 MIT Public License v3.0
-No puede usarse comencialmente.
+No puede usarse comercialmente.
